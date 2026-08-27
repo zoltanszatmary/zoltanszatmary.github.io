@@ -3,9 +3,9 @@
   journal={IEEE Transactions on Multimedia}, 
   title={Enhancing MoQ Resiliency With Implicit Failover Methods}, 
   year={2026},
-  volume={},
+  volume={28},
   number={},
-  pages={1-11},
-  keywords={Relays;Media;Modeling;Timing;Delays;Tracking;Joining processes;Protocols;Videos;Internet;Media over QUIC;failover;high-availability;resiliency;media transmission},
+  pages={14435-14445},
+  keywords={Relays;Media;Modeling;Timing;Delays;Tracking;Joining processes;Protocols;Videos;Internet;Failover;high-availability;media over QUIC;media transmission;resiliency},
   doi={10.1109/TMM.2026.3727860}
 }

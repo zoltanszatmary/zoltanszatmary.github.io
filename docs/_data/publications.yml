@@ -18,7 +18,7 @@ main:
     code: https://github.com/hsnlab/moq-rs
     bibtex: ./assets/files/szatmary2026enhancing.txt
     image: ./assets/img/teaser-szatmary2026enhancing.png
-    notes: Early Access
+    notes: Published
 
   - title: "MoQ Resilience: Implicit Fast Failover"
     authors: Felicián Németh, <strong>Zoltán Szatmáry</strong>, István Pelle, Tamás Lévai.
